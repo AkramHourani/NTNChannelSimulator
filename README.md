@@ -4,8 +4,9 @@ Radio channel simulator for non terrestrial networks (Satellite / UAV) in urban 
 This code simulate non-terrestrial excess path loss for difference urban environments
 Non-terrestrial includes UAV, HAP, LAP, Satellites (LEO and GEO)
 
-The code is based on the measurements and results for the following papers:
 
+
+The code is based on the measurements and results for the following papers:
 [1] A. Al-Hourani, S. Kandeepan and A. Jamalipour, 
     "Modeling air-to-ground path loss for low altitude platforms in urban environments," 
     2014 IEEE Global Communications Conference, Austin, TX, USA, 2014, 
